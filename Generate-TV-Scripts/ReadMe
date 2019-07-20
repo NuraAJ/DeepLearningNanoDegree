@@ -1,0 +1,2 @@
+The model is able to generate its own new, "Fake" Seinfeld TV scripts using RNNs. 
+The model was trained using a Seinfeld dataset of scripts from 9 seasons. 
